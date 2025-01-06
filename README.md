@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndreLucas25
 - 👀 I’m interested in learning more and more about programming.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning html-css.
 - 💞️ I’m looking to collaborate on projetos python.
 - 📫 How to reach me ...
 - 😄 Pronouns: Ele/Dela
