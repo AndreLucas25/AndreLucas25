@@ -1,13 +1,4 @@
-- 👋 Hi, I’m @AndreLucas25
-- 👀 I’m interested in learning more and more about programming.
-- 🌱 I’m currently learning html-css.
-- 💞️ I’m looking to collaborate on projetos python.
-- 📫 How to reach me ...
-- 😄 Pronouns: Ele/Dela
-- ⚡ Fun fact: ...
--  https://andrelucas25.github.io/Projeto-Cordel/
-
-<!---
-AndreLucas25/AndreLucas25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Olá, meu nome é Andre Lucas, eu tenho 17 anos.
+Estou estudando programação atualmente e estou cursando na Rocketseat. 
+Anteriormente eu fiz curso de Python 3.0, lógica de programação com visualg, O módulo 1, 2 e 3 de HTML5 e CSS3.
+Meu objetivo é adquirir cada vez mais conhecimento no ramo da programação, na area full stack e aprimora-los dia após dia.
